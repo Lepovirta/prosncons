@@ -1,4 +1,4 @@
 # Pros n' Cons
 
 * `npm install`
-* `npm run dev
+* `npm run dev`
